@@ -13,8 +13,6 @@ Thanks for visiting my profile. My name is Asgor. I'm a professional web develop
 
 - Technology Is My Love 
 - Programming Is My Passion 
-- Keyboard Is MY Weapon 
-- Perfection Is My Habit 
 - Fun fact: listening to Music and Watching Movie
 
 
