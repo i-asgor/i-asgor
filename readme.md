@@ -1,6 +1,6 @@
 ### Hi there.. <a target="_blank" href="https://www.facebook.com/raihan.mahmudi.50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Thanks for visiting my profile. My name is Asgor. I'm a professional web developer, І will create a professional website, I provide solutions for companies or individuals interested in outsourcing their web design needs. I specialize in developing high-quality look & feel interface websites. I believe that my strong knowledge base and great experience are the keys to customer satisfaction.
+Thanks for visiting my profile. My name is Asgor. I'm a professional web developer, І will create a professional website.
 
 > 
 
@@ -13,11 +13,11 @@ Thanks for visiting my profile. My name is Asgor. I'm a professional web develop
 <br /><br />
 
 
-- ❤️ Technology Is My Love 😍
-- 😎 Programming Is My Passion 🙃
-- ⚔ Keyboard Is MY Weapon 😏
-- 🥰 Perfection Is My Habit 🌍
-- ⚡ Fun fact: listening to Music and Watching Movie
+- Technology Is My Love 
+- Programming Is My Passion 
+- Keyboard Is MY Weapon 
+- Perfection Is My Habit 
+- Fun fact: listening to Music and Watching Movie
 
 
 <h2>Technologies that I know</h2>
