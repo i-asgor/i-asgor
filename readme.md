@@ -14,6 +14,27 @@ Thanks for visiting my profile! My name is **Asgor**, and I'm a **Full Stack Web
 - **Programming is my Passion**  
 - **Fun fact**: When I'm not coding, I love listening to music and watching movies for a bit of relaxation and inspiration.
 
+### 💼 **What I Do**
+I specialize in full-stack web development, focusing on both **frontend** and **backend** technologies:
+- **Frontend**: Responsive, high-performance UIs using **React.js**, **Tailwind CSS**, and more.
+- **Backend**: Building robust APIs with **Node.js**, **PHP** (Laravel), and database management with **MySQL** and **MongoDB**.
+- **Laravel Development**: Expertise in **REST API** creation, authentication with **Laravel Sanctum**, database management, and dynamic form handling.
+- **WordPress Development**: Crafting dynamic and user-friendly WordPress websites with custom themes and plugins.
+- **DevOps**: Deploying applications using **AWS**, **DigitalOcean**, **Netlify**, **Heroku**, and more. 
+- **Auto Deployment**: Seamless deployment from **GitHub** or **GitLab** using **SSH** and **FTP** for continuous delivery, ensuring fast, efficient updates to live applications.
+
+---
+
+### 💡 **Current Focus**
+- Developing scalable web applications using modern JavaScript frameworks.
+- **Laravel Projects**: Focusing on complex business logic, building API integrations, and multi-tiered web applications.
+- **WordPress Development**: Custom themes, plugins, and solutions for small to large-scale businesses.
+- **Auto Deployment Solutions**: Setting up and maintaining **CI/CD pipelines** using **GitHub/GitLab SSH**, **FTP**, and **auto-deployment** configurations for smooth updates to live websites.
+
+---
+
+
+
 ---
 
 ### 🛠 **Technologies I Work With**
@@ -25,29 +46,15 @@ Thanks for visiting my profile! My name is **Asgor**, and I'm a **Full Stack Web
   <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> 
-  <img src="https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=white" height="25"/>
 </p>
-
----
-
-### 💼 **What I Do**
-I specialize in full-stack web development, focusing on both **frontend** and **backend** technologies:
-- **Frontend**: Responsive, high-performance UIs using **React.js**, **Tailwind CSS**, and more.
-- **Backend**: Building robust APIs with **Node.js**, **PHP** (Laravel), and database management with **MySQL** and **MongoDB**.
-- **DevOps**: Experience deploying applications on **AWS**, **DigitalOcean**, **Netlify**, **Heroku**, and more.
-
----
-
-### 💡 **Current Focus**
-- Developing scalable web applications using modern JavaScript frameworks.
-- API development and integration for seamless frontend-backend communication.
-- Exploring the latest DevOps practices to enhance CI/CD pipelines.
 
 ---
 
