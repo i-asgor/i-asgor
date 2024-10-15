@@ -14,6 +14,8 @@ Thanks for visiting my profile! My name is **Asgor**, and I'm a **Full Stack Web
 - **Programming is my Passion**  
 - **Fun fact**: When I'm not coding, I love listening to music and watching movies for a bit of relaxation and inspiration.
 
+---
+
 ### 💼 **What I Do**
 I specialize in full-stack web development, focusing on both **frontend** and **backend** technologies:
 - **Frontend**: Responsive, high-performance UIs using **React.js**, **Tailwind CSS**, and more.
@@ -30,10 +32,6 @@ I specialize in full-stack web development, focusing on both **frontend** and **
 - **Laravel Projects**: Focusing on complex business logic, building API integrations, and multi-tiered web applications.
 - **WordPress Development**: Custom themes, plugins, and solutions for small to large-scale businesses.
 - **Auto Deployment Solutions**: Setting up and maintaining **CI/CD pipelines** using **GitHub/GitLab SSH**, **FTP**, and **auto-deployment** configurations for smooth updates to live websites.
-
----
-
-
 
 ---
 
@@ -59,3 +57,4 @@ I specialize in full-stack web development, focusing on both **frontend** and **
 ---
 
 Feel free to reach out to me if you'd like to collaborate on any exciting projects or if you need help bringing your ideas to life!
+
